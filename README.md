@@ -15,3 +15,5 @@ PS. Check out these pages, maybe you find something interesting
 5. [Best SaaS websites](https://www.eleken.co/blog-posts/learn-from-the-best-saas-websites-their-secrets-revealed)
 6. [Growth Stage of Product Life Cycle](https://www.eleken.co/blog-posts/growth-stage-of-product-life-cycle-things-you-need-to-know-and-implement)
 7. [SaaS Web Design](https://www.eleken.co/saas-web-design)
+8. [How to Build a Product Roadmap](https://www.eleken.co/blog-posts/how-to-build-a-product-roadmap-and-what-tools-to-use-to-build-it)
+9. [How to Build a Minimum Viable Product](https://www.eleken.co/blog-posts/how-to-build-a-minimum-viable-product-and-save-your-budget)
